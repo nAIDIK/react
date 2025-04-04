@@ -1,15 +1,15 @@
 
-import './App.css'
-import Title from "./title.jsx";
+import React from 'react'
 import Card from "./card.jsx"
 
-function App() {
-
+const App = () => {
   return (
-    <>
-    <Card />
-    </>
+
+    <div>
+   <Card />
+    </div>
+    
   )
 }
 
-export default App
+export default App;
