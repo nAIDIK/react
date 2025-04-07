@@ -2,7 +2,7 @@
   width: 250px;
   height: 400px;
   background-color: palevioletred;
-  border-radius: 20px;
+  border-radius: 20px;   
   border: 1px solid black;
   position: relative;
   margin-left: 38%;
@@ -31,3 +31,6 @@ h1 {
   color: black;
   margin-left: 50px;
 }
+
+
+
