@@ -91,5 +91,22 @@
   
   // export default App
 
+//  10-04-2025
+
+// 06 => how to greateing in react
+// lets see
+
+import React from 'react'
+
+const App = () => {
+  return (
+    <div> 
+     <Greeting/>
+    </div>
+  )
+}
+
+export default App
+
 
   
