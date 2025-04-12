@@ -15,8 +15,8 @@
 
         // second methods
 
-function Greeting (){
-    return(
-        <h1></h1>
-    )
-}        
+// function Greeting (){
+//     return(
+//         <h1></h1>
+//     )
+// }        
