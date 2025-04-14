@@ -105,21 +105,41 @@
 //  11-04-25
 
 // 
-// 07-04-25 =>
+// 07 =>
 // today we will see how to create a  count app by useing useeffect
 // lets see = >  
 
-  import React from 'react'
-import Counter2 from '../Counter2'
+//   import React from 'react'
+// import Counter2 from '../Counter2'
   
-  const App = () => {
-    return (
-      <div>
-        <Counter2/>
-        </div>
-    )
-  }
+//   const App = () => {
+//     return (
+//       <div>
+//         <Counter2/>
+//         </div>
+//     )
+//   }
   
-  export default App
+//   export default App
 
-    
+    // 12-04-25
+
+    // 08=> how to create a joke app by  useing useeffect and usestate in react.
+//     //  lets see =>
+
+//  import React from 'react'
+// import Jokes from './Jokes'
+ 
+//  const App = () => {
+//    return (
+//      <div>
+//        <Jokes/>
+//       </div>
+//    )
+//  }
+ 
+//  export default App
+
+// 14-04-25
+
+         
