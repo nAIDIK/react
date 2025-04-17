@@ -1,6 +1,7 @@
+
 import React from 'react'
 
-const Home = () => {
+const SignInPage = () => {
   return (
     <>
       
@@ -8,4 +9,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default SignInPage
